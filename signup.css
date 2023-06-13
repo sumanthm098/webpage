@@ -1,0 +1,71 @@
+body{
+    background-image: url(http://getwallpapers.com/wallpaper/full/e/8/9/1116840-background-nature-2560x1600-windows.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c 
+{
+    width: 300px;
+    height: 550px;
+    margin-top: 50px;
+    margin-left: 650px;
+    background-color: black;
+    border-radius: 40px;
+    opacity:65%;
+    border: 8px solid blue;
+    position: relative;
+}
+.log
+{
+    color: white;
+    margin-top: -470px;
+    margin-left: 700px;
+    position: absolute;
+    font-size: 16px;
+
+}
+.log input
+{
+    width: 200px;
+    height: 19px;
+    border-radius: 5px;
+}
+#d
+{
+    font-size: 13px;
+    margin-left: 118px;
+}
+#db
+{
+    width: 90px;
+    margin-left: 13px;
+}
+.log select
+{
+    margin-left: 1px;
+    width: 95px;
+    height: 21px;
+    border-radius: 5px;
+}
+.signup input
+{
+    font-size: 20px;
+    width: 165px;
+    margin-top: -60px;
+    margin-left: 718px;
+    position: absolute;
+    background-color: aqua;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body h1{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 48px;
+    font-size: 30px;
+    text-decoration: underline;
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    width: fit-content;
+    position: absolute;
+}

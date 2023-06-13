@@ -1,0 +1,53 @@
+.c{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 250px;
+    margin-left: 350px;
+    font-size: 35px;
+    color: aliceblue;
+}
+.head
+{
+    display: flex;
+}
+.li a{
+ font-family:'Times New Roman', Times, serif;
+ font-size: 25px;
+ width: fit-content;
+ margin-left: 45px;
+ color:aliceblue;
+}
+.li a:hover
+{
+    color:aqua;
+}
+.li{
+    float: right;
+    margin-left: 1240px;
+    margin-top: 9px;
+}
+body{
+    background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/08/Amazing-views-cool-nature-photos-nature-wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body .h1
+{
+    animation:col 4s infinite;
+}
+@keyframes col {
+    0%{
+        color: aquamarine;
+    }
+    25%{
+        color: aqua;
+    }
+    50%{
+        color: aquamarine;
+    }
+    75%{
+        color: aqua;
+    }
+    100%{
+        color: aquamarine;
+    }
+}

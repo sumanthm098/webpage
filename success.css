@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.sAi1hhNiM36PvQ8H4iSevwHaEK&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.border
+{
+    width: 600px;
+    height: 350px;
+    border-top: 7px solid red;
+    border-bottom: 7px solid red;
+    margin: auto;
+    margin-top: 190px;
+    border-top-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+    background-color: black;
+    opacity: 60%;
+    position: relative;
+}
+body h1{
+    color: antiquewhite;
+    margin-top:-250px;
+    margin-left: 480px;
+    position: absolute;
+    font-size: 38px;
+}
+body h2{
+    color: antiquewhite;
+    margin-top:-170px;
+    margin-left: 538px;
+    position: absolute;
+    font-size: 30px;
+}
+.c
+{
+    margin-top:-90px;
+    margin-left: 815px;
+    position: absolute;
+    font-size: 18px;
+    color: aqua;
+    width: fit-content;
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}

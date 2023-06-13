@@ -1,0 +1,54 @@
+body{
+    background-image: url(http://getwallpapers.com/wallpaper/full/6/2/1/1057098-cool-nature-backgrounds-2262x1504-for-windows-7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c
+{
+    width: 250px;
+    height: 350px;
+    margin-top: 138px;
+    margin-left: 653px;
+    background-color: black;
+    border-radius: 40px;
+    opacity:65%;
+    border: 8px solid blue;
+    position: relative;
+}
+.log
+{
+    color: white;
+    margin-top: -255px;
+    margin-left: 675px;
+    position: absolute;
+    font-size: 20px;
+
+}
+.log input
+{
+    width: 200px;
+    height: 19px;
+    border-radius: 5px;
+}
+.login input
+{
+    font-size: 22px;
+    width: 80px;
+    margin-top: -60px;
+    margin-left: 735px;
+    position: absolute;
+    background-color: aqua;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body h1{
+    font-size: 20px;
+    margin-top: 48px;
+    position: absolute;
+    margin-left: 30px;
+    font-size: 30px;
+    text-decoration: underline;
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    width: fit-content;
+}
